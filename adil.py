@@ -670,9 +670,7 @@ def posturlm():
 
 def asep():
 	os.system("cls")
-	print(f"""{asu}                                     
-
-         
+	print(f"""{asu}        
    _____  ________  .___.____     
   /  _  \ \______ \ |   |    |    
  /  /_\  \ |    |  \|   |    |    
